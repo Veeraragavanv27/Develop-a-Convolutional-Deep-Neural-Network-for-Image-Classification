@@ -71,9 +71,9 @@ A new sample image from the test dataset is passed to the trained CNN model. The
 
 ## PROGRAM
 
-### Name:
+### Name: Veeraragavan V
 
-### Register Number:
+### Register Number: 212223230237
 
 ```python
 class CNNClassifier(nn.Module):
